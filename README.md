@@ -55,10 +55,11 @@ python manage.py runserver
 
 Your API will be available at 👉 http://127.0.0.1:8000/api/
 
-The DRF API documentation is automatically available at:
+### The DRF API documentation is automatically available at:
 http://127.0.0.1:8000/docs/
 
----
+![Docs Screenshort 1](docs1.png)
+![Docs Screenshort 2](docs2.png)
 
 ### API Endpoints
 | Method       | Endpoint                 | Description                         |
