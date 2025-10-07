@@ -23,6 +23,12 @@ class Todo(models.Model):
     body = models.TextField(
         help_text="Provide details or notes related to this to-do item.",
     )
+    
+    is_done = models.BooleanField(
+        default=False,
+        help_text="Indicates whether the todo item is completed."
+    )
+
 
     class Meta:
         verbose_name = "Todo"
