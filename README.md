@@ -28,7 +28,7 @@ This API provides CRUD functionality for managing to-do items and includes autom
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/todo_api.git
+git clone https://github.com/Minenhle-Ngubane/todo_api.git
 cd todo_api
 ```
 ### 2. Create and activate a virtual environment
